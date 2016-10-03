@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo Personalizado</string>
+    <string name="pistaNombre">Escribe aquí tu nombre...</string>
+    <string name="btnSaludo">¡Salúdame!</string>
+    <string name="hola">¡Hola </string>
+    <string name="faltaNombre">Escribe tu nombre en el campo.</string>
+</resources>
